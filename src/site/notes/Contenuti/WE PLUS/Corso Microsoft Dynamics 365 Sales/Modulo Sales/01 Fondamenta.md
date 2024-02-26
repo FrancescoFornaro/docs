@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/contenuti/we-plus/corso-microsoft-dynamics-365-sales/modulo-sales/01-fondamenta/"}
 ---
 
----
+
+## Fondamenta
+
 Dynamics 365 Sales consente ai venditori di creare solide relazioni con i clienti e concludere le 
 trattative più rapidamente. 
 
@@ -21,5 +23,6 @@ Dopo aver completato questo modulo, sarai in grado di:
 * Descrivere come utilizzare ordini e fatture
 
 ---
+
 Vai → [[Contenuti/WE PLUS/Corso Microsoft Dynamics 365 Sales/Modulo Sales/02 Casi d'uso di Dynamics 365 Sales\|02 Casi d'uso di Dynamics 365 Sales]]
 
