@@ -50,3 +50,7 @@ Dynamics 365 Sales semplifica la conclusione di accordi fornendo più strumenti 
 
 **Fatture**: è possibile creare fatture da ordini di vendita evasi e lo stato della fattura viene monitorato man mano che la fattura viene pagata dal cliente.
 
+***
+
+Vai a → [[Contenuti/WE PLUS/Corso Microsoft Dynamics 365 Sales/Modulo Sales/03 Ciclo di vita delle vendite\|03 Ciclo di vita delle vendite]]
+
