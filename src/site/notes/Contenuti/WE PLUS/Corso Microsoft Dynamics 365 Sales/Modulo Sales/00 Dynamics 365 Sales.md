@@ -6,4 +6,5 @@
 
 * [[Contenuti/WE PLUS/Corso Microsoft Dynamics 365 Sales/Modulo Sales/01 Fondamenta\|01 Fondamenta]]
 * [[Contenuti/WE PLUS/Corso Microsoft Dynamics 365 Sales/Modulo Sales/02 Casi d'uso di Dynamics 365 Sales\|02 Casi d'uso di Dynamics 365 Sales]]
+* [[Contenuti/WE PLUS/Corso Microsoft Dynamics 365 Sales/Modulo Sales/03 Ciclo di vita delle vendite\|03 Ciclo di vita delle vendite]]
 * 
