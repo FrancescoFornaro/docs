@@ -24,5 +24,5 @@ Dopo aver completato questo modulo, sarai in grado di:
 
 ---
 
-Vai → [[Contenuti/WE PLUS/Corso Microsoft Dynamics 365 Sales/Modulo Sales/02 Casi d'uso di Dynamics 365 Sales\|02 Casi d'uso di Dynamics 365 Sales]]
+Vai alla lezione successiva → [[Contenuti/WE PLUS/Corso Microsoft Dynamics 365 Sales/Modulo Sales/02 Casi d'uso di Dynamics 365 Sales\|02 Casi d'uso di Dynamics 365 Sales]]
 
