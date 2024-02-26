@@ -19,3 +19,7 @@ Dopo aver completato questo modulo, sarai in grado di:
 * Descrivere le opzioni disponibili per creare e fornire preventivi utilizzando Dynamics 365 Sales
 * Descrivere l'acceleratore delle vendite
 * Descrivere come utilizzare ordini e fatture
+
+---
+Vai → [[Contenuti/WE PLUS/Corso Microsoft Dynamics 365 Sales/02 Casi d'uso di Dynamics 365 Sales\|02 Casi d'uso di Dynamics 365 Sales]]
+
