@@ -30,3 +30,5 @@ Dynamics 365 Sales aiuta le organizzazioni a gestire il ciclo di vita delle vend
 
 ***
 
+Vai alla lezione successiva → [[Contenuti/WE PLUS/Corso Microsoft Dynamics 365 Sales/Modulo Sales/04 Uno scenario reale\|04 Uno scenario reale]]
+
