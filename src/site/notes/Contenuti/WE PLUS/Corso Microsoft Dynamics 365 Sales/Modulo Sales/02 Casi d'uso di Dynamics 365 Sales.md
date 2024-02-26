@@ -3,9 +3,7 @@
 ---
 
 
----
-# 02 Casi d'uso di Dynamics 365 Sales
-
+## Casi d'uso di Dynamics 365 Sales
 
 Dynamics 365 Sales offre un'ampia e potente gamma di strumenti per aiutarti ad assumere il controllo dell'intero processo di vendita. 
 
