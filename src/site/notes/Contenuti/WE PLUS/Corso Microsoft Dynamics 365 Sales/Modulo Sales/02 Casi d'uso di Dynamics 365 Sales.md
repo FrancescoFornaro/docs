@@ -52,5 +52,5 @@ Dynamics 365 Sales semplifica la conclusione di accordi fornendo più strumenti 
 
 ***
 
-Vai a → [[Contenuti/WE PLUS/Corso Microsoft Dynamics 365 Sales/Modulo Sales/03 Ciclo di vita delle vendite\|03 Ciclo di vita delle vendite]]
+Vai alla lezione successiva → [[Contenuti/WE PLUS/Corso Microsoft Dynamics 365 Sales/Modulo Sales/03 Ciclo di vita delle vendite\|03 Ciclo di vita delle vendite]]
 
